@@ -15,21 +15,21 @@ Use the standard libraries in python for finding linear regression.
 ## step2:
 Set variables for assigning dataset values
 
-step3:
+## step3:
 Import linear regression from sklearn.
 
-step4:
+## step4:
 Predict the values of array
 
-step5:
+## step5:
 Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 
-step6:
+## step6:
 Obtain the graph.
 
-step7:
+## step7:
 stop the programme.
-
+```
 Program:
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
@@ -74,9 +74,9 @@ plt.xlabel("AGE")
 plt.ylabel("ESTIMATED SALARY")
 plt.legend()
 plt.show()
-
+```
 ## Output:
-![OUTPUT](?raw=true)
+![OUTPUT](https://github.com/gunasekhar159/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/ep-4.png?raw=true)
 
 
 ## Result:
